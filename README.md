@@ -88,7 +88,4 @@ I work as a <b>Data Engineer and Data Analyst</b>, dedicated to building reliabl
 
 <img src="https://streak-stats.demolab.com?user=thrazory&theme=tokyonight&background=09090b&border=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&dates=94a3b8" />
 
-<br><br>
-
-
-
+</div>
