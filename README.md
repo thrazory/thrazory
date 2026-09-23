@@ -90,6 +90,5 @@ I work as a <b>Data Engineer and Data Analyst</b>, dedicated to building reliabl
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thrazory&show_icons=true&theme=tokyonight&bg_color=09090b&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" />
 
-</div>
+
